@@ -1,6 +1,6 @@
 ## Welcome to Rock Paper Scissor Game
 
-Link:https://beastgets-savvy30.github.io/playrpswithcomp/Rockpaperscissor.html
+Link:https://beastgetssavvy13.github.io/Rock-Paper-Scissor-with-Comp/Rockpaperscissor.html
 
 Top-Down Programming Example: Rock, Paper, Scissors
 Step #1: Goal and General Algorithm Idea
