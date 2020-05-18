@@ -1,7 +1,16 @@
 ## Welcome to Rock Paper Scissor Game
 
+## The Pixelated Coder  :man_technologist:
+
+## :busts_in_silhouette: Maintainers
+- [Kavish Pandit](https://github.com/beastgetsssavvy13)
+
+
+### Preview Interface 
+Feel free to reach out if any issues :raised_hands:
 Link:https://beastgetssavvy13.github.io/Rock-Paper-Scissor-with-Comp/Rockpaperscissor.html
 
+## Algorithm Involved
 Top-Down Programming Example: Rock, Paper, Scissors
 Step #1: Goal and General Algorithm Idea
 Goal: write a game to play “rock, paper, scissors”
@@ -94,3 +103,4 @@ To check input, we need to be sure it’s a valid command, so see if it’s in c
         else:
             break
 Put these together to get the user input routine.
+## Feel free to reach out if any issues :raised_hands:
